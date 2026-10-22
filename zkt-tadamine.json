@@ -1,0 +1,964 @@
+{
+ "work": "忠岑集",
+ "work_id": "zkt-tadamine",
+ "repo": "kumoi-no-fumigura/tadamine-shu",
+ "yomi": "ただみねしゅう",
+ "category": "私家集",
+ "kind": "kashu",
+ "era": "平安前期",
+ "author": "壬生忠岑",
+ "editions": [
+  {
+   "pid": "873676",
+   "title": "続国歌大観 歌集部 第二冊",
+   "editor": "松下大三郎 編",
+   "series": "続国歌大観",
+   "publisher": "",
+   "year": 1911,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/873676"
+  }
+ ],
+ "status": "未校正（續國歌大觀 第二冊の OCR から 1 首ずつ切り出し。歌番号は未確定）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zkt-tadamine-0001",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "ふるうた召しゝ時添へて奉る",
+   "author": "",
+   "text": "れくれ竹のよゝの古ごと微りせばいかほの沼の",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0002",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "有きてふ人まろこそは嬉しけれ身はしも乍ら",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0003",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "言の葉をあまつ空まで聞え上て末の世までの",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0004",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "跡となし今もおほせの下れるは廉につげとや",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0005",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "塵の身の積れることを問はる覽これを思へば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0006",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "ヘにくすり濱せるけだ物の空にぼえけむ",
+   "author": "",
+   "text": "心地して千々の嘆きも思ほえず一つこゝろは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0007",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "誇らしき斯はほこれど照ひかり近きまもりの",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0008",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "身也しをたれかは秋のくる方にあざむき出て",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0009",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "御垣もりをさ〓〓しくも思ほえずこゝの重ねの",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0010",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "中にてはあらしの風も聞ざりき今はのやまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0011",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "近ければ春はかすみに靉びかれ夏はうつせみ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0012",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "鳴き暮し秋はしぐれに袖をかし冬はしもしぞ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0013",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "資らるゝかゝる侘しき身乍らにつもれる年を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0014",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "數ふればいつヽの六になりに見是にそはれる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0015",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "年たかきことの苦しさ斯しつゝ長納のはしの",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0016",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "長らへばなにはの浦に立つ波の老のしわにや",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0017",
+   "pid": "873676",
+   "pages": [
+    38
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "溺ほれむ流石にいのち惜ければ越のくになる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0018",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "しら山のかしらは白く成ぬともおとはの山の",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0019",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "音にきく老ず死なすの藥もが君が八千代を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0020",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "か君が代に逢坂山の石〓水木がくれたりと思ひける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0021",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "右大將の四十賀の屏風に、又",
+   "author": "",
+   "text": "〓大荒木の杜の下草繁りあひて深くも夏の成にける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0022",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "秋",
+   "author": "",
+   "text": "秋萩は先さすえより移ふを露の心の分くるとな見そ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0023",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "夏の夜郭公を聞きて",
+   "author": "",
+   "text": "暮るかと見れば明ぬる夏の夜を他ずとや鳴く山時鳥",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0024",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "早う住みし家に郭公を聞きて",
+   "author": "",
+   "text": "00昔べや今も戀しき時鳥ふる里にしも鳴きてきぬらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0025",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "七月八日w",
+   "author": "",
+   "text": "一今日よりは今來む年の昨日をぞ早晩とのみ待渡べき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0026",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "秋の夜月のいみじう明かりしに",
+   "author": "",
+   "text": "一八方の月の柱も秋くれば紅葉すればや照り增るらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0027",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "同じ頃ほひに",
+   "author": "",
+   "text": "秋の夜の露をば露と思置きて雁の涙や野べを染む覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0028",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋の野の萩の白露今朝見れば玉や敷けると驚れつゝ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0029",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "中宮の御屏風に山田ある所",
+   "author": "",
+   "text": "蛙鳴く井手の山田に蒔きし稻は君待なへと生立に見",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0030",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "菊の花の露に袖を濡してある七にかく云ふ",
+   "author": "",
+   "text": "折折る菊の雫を多みわかゆてふ濡衣を社老の身に着れ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0031",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "或る女どもに遺しゝ歌ども",
+   "author": "",
+   "text": "かくくししるに消えて物思ふ頃にも有哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0032",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋風にかきなす琴の聲にさへ優く人の戀しかるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0033",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "かたきつ激に根ざし止らぬ萍の浮たる戀も我はする哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0034",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "。風吹けば嶺に別るゝ白雲の絕えてつれなき君が心か",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0035",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "者物など云ひ侍りし女のなくなりしが曉方の夢にみえて侍らでさめ侍りしかば",
+   "author": "",
+   "text": "。命にも增りて惜くある物は見果ぬ夢の覺むる也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0036",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "或る女のいみじく心かろく〓りしかば",
+   "author": "",
+   "text": "co獨して思へばくるしいかにして同じ心に人を〓へむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0037",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "女の許に始めてやり侍りし",
+   "author": "",
+   "text": "5須須の强のこれる鹽木か燃る共人に知られぬ我戀ならむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0038",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "女に始めて逢ひ侍りしにいみじく哀に覺えしかば其の女に",
+   "author": "",
+   "text": "。。てて事事をぞ妬く古しける君にのみこそ云べかりけれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0039",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "忍びて女の許にまかりはべりしにいくばくもなくてあけ侍りしかば其の女に",
+   "author": "",
+   "text": "。夢よりもはかなきものは夏の夜の曉方の別なりけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0040",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "寬平の御時中宮の御屏風にあまのかづきたる所 松",
+   "author": "",
+   "text": "か心ざし深く水底かづきつゝむなしくいづな沖つ島守",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0041",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "世の中常ならず心うかりし頃",
+   "author": "",
+   "text": "わぬるが中に見るをのみやは夢といはむ儚き世をも現とはみず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0042",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "相知りたる人のすまひの使に遠き國に下るに",
+   "author": "",
+   "text": "ん。がをせけば淵と成つゝ淀みけり別を止むる柵ぞなき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0043",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "成る女に物云ひたりと騷がれし頃はひ",
+   "author": "",
+   "text": "加陸奥に有と云ふなる名取河無名とりては〓しかり免",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0044",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "后の宮の御屏風に瀧おちたる所",
+   "author": "",
+   "text": "%落ちたぎつ瀧の水上年積り老にけらしな黒き筋なし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0045",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "初春",
+   "author": "",
+   "text": "一春立と云ふ計にやみ吉野の山も霞みて今朝は見ゆ覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0046",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "仲春",
+   "author": "",
+   "text": "一春はなほ我にて知りぬ花盛心のどけき人はあらじな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0047",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "秋",
+   "author": "",
+   "text": "山里は秋社殊に悲しょけけれ鹿の鳴音に目を覺しつゝ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0048",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "泉の右大將の四十賀の屏風に",
+   "author": "",
+   "text": "一濁なき〓瀧川のきよければ底よりせくと見ゆる藤波",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0049",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "秋",
+   "author": "",
+   "text": "一千鳥鳴く佐保の川霧立ぬらし山の木葉も色變りゆく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0050",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "春の始",
+   "author": "",
+   "text": "た春來ぬと人は云へども爲の鳴かぬ限は非じとぞ思ふ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0051",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "惟貞のみこの御歌合に",
+   "author": "",
+   "text": "一 降降れば笠取山の紅葉ばは行かふ人の袖さへぞ照る",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0052",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "神なみの三室の山を分行けば錦立きる心地こそすれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0053",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "山田守る秋の假庵に沿露はいなおほせ鳥の淚也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0054",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "寛平の御時后の宮の歌合に",
+   "author": "",
+   "text": "〓三吉野の山の白雪踏分けて入にし人の音づれもせぬ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0055",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一白雪の降りて積れる山里は住人さへや思ひ消ゆらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0056",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓鹽竈の磁のいさごを包みもて逢夜の數と思べらなる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0057",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "戀歌",
+   "author": "",
+   "text": "三春日野の雪間を分て生出來る草のはつかに見えし君かも",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0058",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "獨ぬる我敷妙の鹽竈はうき玉なれやよるかたも無し",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0059",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一月影に我身を變ふる物ならば思はぬ人も哀とや見む",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0060",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "友則がなくなりにし後",
+   "author": "",
+   "text": "た時しもあれ秋やは人の別るべき有を見だに戀しき物を",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0061",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "思に籠りたる人を訪ふとて",
+   "author": "",
+   "text": "七星ぞめの君が袂は雲なれや絕えず淚の雨とのみ降る",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0062",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "相知りたる人の住吉に詣づと聞きて",
+   "author": "",
+   "text": "隱沼の下より生る根並のねぬ名は立たで來るな厭ひそ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0063",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "松の音に風の調を合せては立田姫こそ秋はひくらし相知りて侍る人日頃久しく訪はずしていきたるにかくせば",
+   "author": "",
+   "text": "co住の江の松に立寄る白波のかゝる折にや音をば鳴覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0064",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "暇ありてこもり居て侍るに人の訪はねば",
+   "author": "",
+   "text": "大荒木の森の草とや成にけむ假に來て紡ふ人も無身は",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0065",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "三月三日ある處にて土器とりて",
+   "author": "",
+   "text": "三三千歳へてなるてふ桃の今年より花咲春に成にける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0066",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "雖入集不見家集歌",
+   "author": "",
+   "text": "三年をへて濁だにせぬ銷江には玉も却りて今は住べき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0067",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "明子日する野べに小松の微せば千代の例に何を引まし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0068",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "色々の木の葉流るゝ大井川しもは桂の紅葉とや見む",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0069",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "加夏果つる扉と秋の白露と孰れかまづは置かむとす覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0070",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "七東路のさやの中山清かにも見えぬ雲居によをや盡さむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0071",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "5年年れば朽ちこそ增れ橋柱昔ながらの名だに變らで",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-tadamine-0072",
+   "pid": "873676",
+   "pages": [
+    39
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "加くくいいく白露に身を做て君があたりの草に消なむ",
+   "sachu": "",
+   "jo": ""
+  }
+ ]
+}
