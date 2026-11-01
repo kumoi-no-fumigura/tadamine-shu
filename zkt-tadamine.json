@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 72,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-tadamine-0001",
@@ -1052,7 +1055,7 @@
   "blocks": 72,
   "chars": 1674,
   "poems": 72,
-  "yaku": 0,
+  "yaku": 72,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T00:09:37+09:00"
